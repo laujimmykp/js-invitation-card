@@ -1,0 +1,1 @@
+import{_ as a,c as s,a as t,t as n,o}from"./index-k4vgNYNd.js";const c={},r={class:"name"};function i(e,_){return o(),s("div",r,[t("h1",null,"This is an "+n(e.$route.params.name)+" page",1)])}const m=a(c,[["render",i]]);export{m as default};
